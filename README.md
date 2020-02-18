@@ -1,4 +1,4 @@
-# Git Basics Lab
+cd # Git Basics Lab
 
 ## Learning Goals
 
